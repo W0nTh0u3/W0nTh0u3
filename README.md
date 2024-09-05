@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2014<br>🎯 One goal is to better.<br>🎲 Fun fact: Likes to play games and smash keys.</p>
+<p align="left">✨ Creating bugs since 2014<br>🎯 One goal is to be better today than yesterday.<br>🎲 Fun fact: Likes to play games and smash keys.</p>
 
 ###
 
