@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ryan Emmanuel SJ Verzo and I'm a Software Developer, from the Philippines</p>
+<p align="left">My name is Ryan Emmanuel SJ Verzo and I'm a Software Engineer, from the Philippines</p>
 
 ###
 
@@ -16,7 +16,13 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2014<br>🎯 One goal is to be better today than yesterday.<br>🎲 Fun fact: Likes to play games and smash keys.</p>
+<p align="left">
+  ✨ Creating bugs since 2014<br>
+  🎯 The goal is to be better today than yesterday.<br>
+  🎲 Fun facts:<br>
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎮 Likes to play games and smash keys ⌨️. </span><br>
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👟 Sneakerhead</span>
+</p>
 
 ###
 
